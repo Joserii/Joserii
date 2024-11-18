@@ -2,7 +2,7 @@
 I‘m a second-year master student at [Zhejiang University](https://www.zju.edu.cn/), majoring in multimodal large models and time series analysis. Also, I'm learning recommendation system now.
 
 📫 How to reach me:
-[知乎](https://www.zhihu.com/people/a-la-si-jia-mei-you-xue-yu) [Linkin](https://www.linkedin.com/in/%E5%8D%93%E8%B6%8A-%E9%99%88-5211bb1a5/)  [csdn](https://blog.csdn.net/qq_45579784)
+[知乎](https://www.zhihu.com/people/a-la-si-jia-mei-you-xue-yu)  [csdn](https://blog.csdn.net/qq_45579784)
 
 📝 Paper Reading Notes: paper reading list
 
