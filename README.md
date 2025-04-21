@@ -7,10 +7,11 @@ I‘m a second-year master student at [Zhejiang University](https://www.zju.edu.
 📝 Paper Reading Notes: paper reading list
 
 🌱 Learning interest: 
-- I’m currently learning Large Language Model and Recommendation System.
+- I’m currently learning Large Language Model.
 - I'm focused on time series analysis for my first-year of master student.
 
 🌾 Experiences:
-
+- R&D intern of [Alibaba Damo Academy](https://damo.alibaba.com/?language=en), responsible for LLM post-training. (from 2024-12 to now)
+- R&D intern of [01.AI](https://www.lingyiwanwu.com/), responsible for architecture construction and application of multimodal LLM (MLLM). (from 2024-07 to 2024-12)
 
 💬 Ask me about ...
