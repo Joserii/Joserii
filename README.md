@@ -2,7 +2,7 @@
 I‘m a second-year master student at [Zhejiang University](https://www.zju.edu.cn/), majoring in large language models and time series analysis.
 
 📫 How to reach me:
-[zhihu](https://www.zhihu.com/people/a-la-si-jia-mei-you-xue-yu)  [csdn](https://blog.csdn.net/qq_45579784)
+[zhihu](https://www.zhihu.com/people/a-la-si-jia-mei-you-xue-yu)
 
 📝 Paper Reading Notes: paper reading list
 
