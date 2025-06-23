@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Joserii Chen ✨.
+## Hi there 👋 , I'm Joseri ✨.
 I‘m a second-year master student at [Zhejiang University](https://www.zju.edu.cn/), majoring in large language models and time series analysis.
 
 📫 How to reach me:
