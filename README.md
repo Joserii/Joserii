@@ -10,6 +10,6 @@ I‘m a second-year master student at [Zhejiang University](https://www.zju.edu.
 
 🌾 Experiences:
 - R&D intern of [Alibaba Damo Academy](https://damo.alibaba.com/?language=en), responsible for LLM post-training. (from 2024-12 to now)
-- R&D intern of [01.AI](https://www.lingyiwanwu.com/), responsible for MLLM architecture construction and application. (from 2024-07 to 2024-12)
+- R&D intern of [01.AI](https://www.lingyiwanwu.com/), responsible for VLM application. (from 2024-07 to 2024-12)
 
 💬 Ask me about ...
