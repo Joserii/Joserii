@@ -4,8 +4,6 @@ I‘m a second-year master student at [Zhejiang University](https://www.zju.edu.
 📫 How to reach me:
 [zhihu](https://www.zhihu.com/people/a-la-si-jia-mei-you-xue-yu)
 
-📝 Paper Reading Notes: paper reading list
-
 🌱 Learning interest: 
 - I’m currently learning Large Language Model.
 - I'm focused on time series analysis for my first-year of master student.
