@@ -1,15 +1,33 @@
-## Hi there 👋 , I'm Joseri ✨.
-I‘m a second-year master student at [Zhejiang University](https://www.zju.edu.cn/), majoring in large language models and time series analysis.
+## Hi there 👋, I'm Joseri ✨
 
-📫 How to reach me:
-[zhihu](https://www.zhihu.com/people/a-la-si-jia-mei-you-xue-yu)
+I am a Master's graduate from [Zhejiang University](https://www.zju.edu.cn/), currently working as an Algorithm Engineer at [Alibaba Taobao & Tmail Group](https://taobao.com). My research and engineering interests focus on **Coding LLMs**, **LLM Agents & Tool Use**, and **LLM Post-training**.
 
-🌱 Learning interest: 
-- I’m currently learning Large Language Model.
-- I'm focused on time series analysis for my first-year of master student.
+ **How to reach me:**
+- Email: zjuczy2001@163.com
 
-🌾 Experiences:
-- R&D intern of [Alibaba Damo Academy](https://damo.alibaba.com/?language=en), responsible for LLM post-training. (from 2024-12 to now)
-- R&D intern of [01.AI](https://www.lingyiwanwu.com/), responsible for VLM application. (from 2024-07 to 2024-12)
+🌱 **Current Focus:**
+- **Coding LLM & Agents**: Exploring advanced reasoning capabilities and autonomous agent frameworks for software development tasks.
+- **Post-training Optimization**: Investigating SFT (Supervised Fine-Tuning), RLHF, and DPO strategies to enhance model alignment and code generation quality.
 
-💬 Ask me about ...
+💼 **Work Experience:**
+- **Algorithm Engineer** @ [Alibaba Taobao & Tmail Group](https://taobao.com) *(Apr 2026 - Present)*
+  - Focusing on the development and optimization of large language models for coding scenarios and agent-based applications.
+  - Working on post-training pipelines to improve model performance in complex logical reasoning and code generation tasks.
+
+🚀 **Past Internships:**
+- **R&D Intern** @ [Alibaba Damo Academy](https://damo.alibaba.com/?language=en) *(Dec 2024 - Nov 2025)*
+  - Responsible for LLM post-training research, focusing on data curation and instruction tuning strategies.
+- **R&D Intern** @ [01.AI (Lingyi Wanwu)](https://www.lingyiwanwu.com/) *(Jul 2024 - Dec 2024)*
+  - Worked on Vision-Language Model (VLM) applications, contributing to multimodal understanding and generation tasks.
+
+💬 **Ask me about:**
+- Large Language Models (especially Code LLMs)
+- LLM Agents & Tool Use
+- Post-training Techniques (SFT, RLHF, DPO)
+- Time Series Analysis (My previous research background)
+
+📊 **Tech Stack:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
