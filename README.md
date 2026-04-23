@@ -11,8 +11,6 @@ I am a Master's graduate from [Zhejiang University](https://www.zju.edu.cn/), cu
 
 💼 **Work Experience:**
 - **Algorithm Engineer** @ [Alibaba Taobao & Tmail Group](https://talent.taotian.com/) *(Apr 2026 - Present)*
-  - Focusing on the development and optimization of large language models for coding scenarios and agent-based applications.
-  - Working on post-training pipelines to improve model performance in complex logical reasoning and code generation tasks.
 
 🚀 **Past Internships:**
 - **R&D Intern** @ [Alibaba Damo Academy](https://damo.alibaba.com/?language=en) *(Dec 2024 - Nov 2025)*
