@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Joseri ✨
 
-I am a Master's graduate from [Zhejiang University](https://www.zju.edu.cn/), currently working as an Algorithm Engineer at [Alibaba Taobao & Tmail Group](https://taobao.com). My research and engineering interests focus on **Coding LLMs**, **LLM Agents & Tool Use**, and **LLM Post-training**.
+I am a Master's graduate from [Zhejiang University](https://www.zju.edu.cn/), currently working as an Algorithm Engineer at [Alibaba Taobao & Tmail Group](https://talent.taotian.com/). My research and engineering interests focus on **Coding LLMs**, **LLM Agents & Tool Use**, and **LLM Post-training**.
 
  **How to reach me:**
 - Email: zjuczy2001@163.com
@@ -10,7 +10,7 @@ I am a Master's graduate from [Zhejiang University](https://www.zju.edu.cn/), cu
 - **Post-training Optimization**: Investigating SFT (Supervised Fine-Tuning), RLHF, and DPO strategies to enhance model alignment and code generation quality.
 
 💼 **Work Experience:**
-- **Algorithm Engineer** @ [Alibaba Taobao & Tmail Group](https://taobao.com) *(Apr 2026 - Present)*
+- **Algorithm Engineer** @ [Alibaba Taobao & Tmail Group](https://talent.taotian.com/) *(Apr 2026 - Present)*
   - Focusing on the development and optimization of large language models for coding scenarios and agent-based applications.
   - Working on post-training pipelines to improve model performance in complex logical reasoning and code generation tasks.
 
